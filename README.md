@@ -2,5 +2,5 @@
 
 How to run a file?
 
-javac <Name of File>.java
-java <Class Name>
+javac Name_of_File.java
+java Main
