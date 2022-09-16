@@ -1,6 +1,6 @@
 1. [Stack and Queue](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/staque-1-e790a29f/)
 
-* Initialize left as arr(0) and right as $\sum_{i = n - k + 1}^{n} arr(i)$
+* Initialize left as arr(0) and right as $$\sum_{i = n - k + 1}^{n} arr(i)$$
 * Initialize a left_add pointer to 1 and right_remove pointer to n - k + 1
 * The number of steps to complete all scenarios is k - 1. Initialize count to k - 1
 * Run a loop till count != 0
